@@ -212,7 +212,7 @@ public:
     }
 
     /// <summary>
-    /// à method that allows you to change a student's last name
+    /// Ð° method that allows you to change a student's last name
     /// </summary>
     /// <param name="surname">some new value for student surname</param>
     void SetSurname(string surname)
@@ -230,7 +230,7 @@ public:
     }
 
     /// <summary>
-    ///  à method that allows you to change a student's father name
+    ///  Ð° method that allows you to change a student's father name
     /// </summary>
     /// <param name="father_name"></param>
     void SetFatherName(string father_name) {
@@ -246,7 +246,7 @@ public:
     }
 
     /// <summary>
-    /// à method that allows you to change a student's address
+    /// Ð° method that allows you to change a student's address
     /// </summary>
     /// <param name="address"></param>
     void SetAddress(string address) {
@@ -262,7 +262,7 @@ public:
     }
 
     /// <summary>
-    /// à method that allows you to change a student's phone number
+    /// Ð° method that allows you to change a student's phone number
     /// </summary>
     /// <param name="phone_number"></param>
     void SetPhoneNumber(string phone_number) {
